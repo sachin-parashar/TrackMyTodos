@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "A focused todo list and real-time completion progress tracker with batch list entry, checkbox status tracking, and live analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
